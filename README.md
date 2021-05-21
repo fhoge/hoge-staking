@@ -5,7 +5,7 @@ Compute [HOGE](https://hoge.finance/) staking amount using GitHub actions
 ## How to install:
 
 1. Fork the project
-2. In GitHub, go to "Settings" > "Secrets" and add two secrets:
+2. In GitHub, go to "Settings" > "Secrets" and add two repository secrets:
   - `API_KEY`: an Etherscan API key (can be created here: https://etherscan.io/myapikey)
   - `ADDRESS`: the Ethereum address to monitor
 
